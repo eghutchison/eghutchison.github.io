@@ -1,5 +1,6 @@
 # eghutchison.github.io
 Portfolio
 
+Projects
 The Odin Project Submission - Rock, Paper, Scissors in Javascript
 https://eghutchison.github.io/TOP-RockPaperScissors/
